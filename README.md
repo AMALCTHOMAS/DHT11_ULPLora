@@ -1,4 +1,4 @@
-# ULPLoRa with DHT Integration
+# ULPLoRa with DHT11 Integration
 
 This repository contains code libraries and documentation for integrating the ULPLoRa board with the DHT sensor for temperature and humidity monitoring and visualization. The ULPLoRa board, a combination of an Arduino Pro Mini with an RFM95W LoRa module, provides a versatile platform for wireless communication, while the DHT sensor offers precise temperature and humidity measurements.
 
