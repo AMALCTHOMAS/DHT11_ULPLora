@@ -5,7 +5,7 @@ This repository contains code libraries and documentation for integrating the UL
 ## Features
 
 - **ULPLoRa Board:** Utilizes the MCCI LoRaWAN LMIC library for LoRaWAN communication.
-- **DHT Sensor:** Interfaced with the DHT library for temperature and humidity data acquisition.
+- **DHT11 Sensor:** Interfaced with the DHT library for temperature and humidity data acquisition.
 - **ChirpStack Integration:** Enables seamless connectivity with the ChirpStack server for LoRaWAN network management.
 - **InfluxDB and Grafana Integration:** Facilitates data storage in InfluxDB and visualization in Grafana for effective monitoring and analysis.
 
